@@ -1,6 +1,7 @@
 /* Shared styles */
 * {
   font-family: Azeret Mono, sans-serif;
+  scroll-behavior: smooth;
 }
 
 .p-color {
