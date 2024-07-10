@@ -15,7 +15,7 @@
 
 /* Section 1 : intro */
 .intro-section-container {
-  width: 1440px;
+  width: 100%;
   height: 652px;
   display: flex;
   flex-direction: column;
@@ -24,18 +24,14 @@
   background-image: url(../assets/Hero-bg.png);
 }
 
-.intro-section-title {
-  width: 990px;
-  height: 136px;
+.intro-section-container > h1{
   font-size: 48px;
   padding: 0px;
   margin-bottom: 0px;
 }
 
-.intro-section-info {
-  font-size: 16px;
-  margin-top: 0px;
-  margin-bottom: 20px;
+.intro-section-container > p{
+  margin-top: 20px 0;
 }
 
 .contact-btn {
@@ -50,7 +46,6 @@
 }
 
 /* Section 2 : why-web-dev-section styles */
-
 .why-web-dev-section {
   display: flex;
   justify-content: center;
@@ -157,7 +152,6 @@
   width: 1076px;
   height: 550px;
   border-radius: 16px;
-  background: url(Jhankar);
 }
 
 .inspiration-section-container > p {
@@ -237,10 +231,11 @@
 .feedback-section-containter input[type="submit"] {
   width: 120px;
   height: 57px;
-  border-radius: 8px;
   padding: 19px 20px 19px 20px;
-  background: rgb(255, 255, 255);
   border: none;
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+  
 }
 
 .feedback-section-containter > form {
