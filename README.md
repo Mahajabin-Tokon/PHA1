@@ -10,6 +10,20 @@ The goal of this project is to showcase an understanding of semantic HTML, CSS s
 
 ---
 
+## Packages and Technologies Used
+- **HTML5**:
+  - Semantic structure for better readability and accessibility.
+- **CSS3**:
+  - Custom styling with advanced selectors and pseudo-elements.
+- **Google Fonts**:
+  - Integration of "Azeret Mono" for a unique and modern typography style.
+- **Responsive Design**:
+  - CSS flexbox and media query techniques for adaptability across devices.
+- **Custom Assets**:
+  - Icons, images, and backgrounds to enhance visual engagement.
+
+---
+
 ## Key Features
 1. **Introduction Section**:
    - A motivational quote and personal aspiration statement.
@@ -35,20 +49,6 @@ The goal of this project is to showcase an understanding of semantic HTML, CSS s
 6. **Footer**:
    - Includes social media links (Facebook, GitHub, LinkedIn) with corresponding icons.
    - A statement of commitment and a modern design to end the page.
-
----
-
-## Packages and Technologies Used
-- **HTML5**:
-  - Semantic structure for better readability and accessibility.
-- **CSS3**:
-  - Custom styling with advanced selectors and pseudo-elements.
-- **Google Fonts**:
-  - Integration of "Azeret Mono" for a unique and modern typography style.
-- **Responsive Design**:
-  - CSS flexbox and media query techniques for adaptability across devices.
-- **Custom Assets**:
-  - Icons, images, and backgrounds to enhance visual engagement.
 
 ---
 
