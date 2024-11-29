@@ -1,7 +1,10 @@
-# My First Assignment
+# My First Website
+
+## Live Link
+https://mahajabin-tokon.github.io/PHA1/
 
 ## Project Description
-"My First Assignment" is a visually engaging and responsive web page designed to demonstrate foundational web development skills using HTML, CSS, and modern design principles. The project features structured sections that include an introduction, reasons for pursuing web development, an inspiration section with an embedded video, a target skills section, and a feedback form. This project emphasizes clean code, reusable styles, and a cohesive visual design.
+"My First Website" is a visually engaging and responsive web page designed to demonstrate foundational web development skills using HTML, CSS, and modern design principles. The project features structured sections that include an introduction, reasons for pursuing web development, an inspiration section with an embedded video, a target skills section, and a feedback form. This project emphasizes clean code, reusable styles, and a cohesive visual design.
 
 The goal of this project is to showcase an understanding of semantic HTML, CSS styling, and responsive design techniques, while providing a user-friendly and interactive experience.
 
